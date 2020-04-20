@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="result_error">Please insert a real calcul</string>
+    <string name="divide_by_zero">Division by zero is impossible</string>
+</resources>
